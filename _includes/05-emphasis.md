@@ -1,3 +1,4 @@
 - *Brain power*
 - _Mental Capacity_
 - _*Beauty*_
+- _Humble_
